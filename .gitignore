@@ -30,6 +30,10 @@
 
 *.depend
 *.layout
+*.cbp
+
+
+
 
 
 
